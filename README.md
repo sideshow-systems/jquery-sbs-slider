@@ -1,6 +1,7 @@
 # jquery-sbs-slider
 
 [![npm (scoped)](https://img.shields.io/badge/npm-v0.2.1-brightgreen.svg)](https://github.com/sideshow-systems/jquery-sbs-slider)
+[![npm (scoped)](https://badgen.net/packagephobia/install/@sideshowsystems/jquery-sbs-slider)](https://packagephobia.now.sh/result?p=%40sideshowsystems%2Fjquery-sbs-slider)
 
 jQuery SideBySide Slider
 
