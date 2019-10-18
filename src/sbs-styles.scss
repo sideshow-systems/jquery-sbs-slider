@@ -1,0 +1,35 @@
+/** SBS styles **/
+
+.img_sbs_box {
+	height: 400px;
+	position: relative;
+	overflow: hidden;
+
+	.imgwrapper {
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		width: 50%;
+		overflow: hidden;
+
+		img {
+			display: inline-block;
+			position: absolute;
+		}
+
+		&.imgleft {
+			left: 0px;
+
+			img {
+				left: -50px;
+			}
+		}
+		&.imgright {
+			right: 0px;
+
+			img {
+				right: -50px;
+			}
+		}
+	}
+}
