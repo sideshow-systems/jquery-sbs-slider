@@ -1,6 +1,6 @@
 # jquery-sbs-slider
 
-[![npm (scoped)](https://img.shields.io/badge/npm-v0.2.0-brightgreen.svg)](https://github.com/sideshow-systems/jquery-sbs-slider)
+[![npm (scoped)](https://img.shields.io/badge/npm-v0.2.1-brightgreen.svg)](https://github.com/sideshow-systems/jquery-sbs-slider)
 
 jQuery SideBySide Slider
 
